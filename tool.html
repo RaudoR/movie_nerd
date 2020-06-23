@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!--Linked tools and stylesheet-->
     <meta charset="utf-8">
     <title>MovieNerd</title>
     <link rel="stylesheet" href="https://bootswatch.com/4/cosmo/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
+    <!--Button to take you back to the home page-->
     <nav class="navbar navbar-default">
       <div class="container">
         <div class="navbar-header">
@@ -14,13 +16,14 @@
         </div>
       </div>
     </nav>
-
+    <!--Search bar of the app-->
     <div class="container">
     	<div class="jumbotron">
 	    	<h3 class="text-center">Search for a movie</h3>
 	    	<form id="searchForm">
           <input type="text" class="form-control" id="searchText" placeholder="Don't be shy, type in your movie :)...">
           <div class="form-group">
+            <!--Search button-->
             <button class="btn btn-danger btn-block">
                 Search
             </button>
@@ -32,7 +35,7 @@
     <div class="container">
       <div id="movies" class="row"></div>
     </div>
-
+    <!--Linked tools and JS-->
     <script
   src="https://code.jquery.com/jquery-3.1.1.min.js"
   crossorigin="anonymous"></script>
