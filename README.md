@@ -3,10 +3,12 @@ MovieNerd is a movie information site, where you can type in your favorite movie
 
 http://www.movienerd.com.s3-website.us-east-2.amazonaws.com/
 
+Author/Developer: [Raudo Rivas](https://www.linkedin.com/in/raudo-rivas-4b89a4162/) (Front-end/Back-end/DevOps)
+
 ## Installation
 If you want to run this app locally, you can follow these steps:
 - Clone the repo.
-- Initiate the "index.html" file to land on the home page.
+- Initiate the "index.html" file inside the folder, to land on the home page.
 
 ## Usage
 
@@ -15,3 +17,5 @@ If you want to run this app locally, you can follow these steps:
 - For more movie information click the "Movie Details" button.
 - Once in the movie details page, if you want to go back to the search page you can either click the "Go back to search" button at the bottom, or the "MovieNerd" button at he top.
 - To go back to the home page click the "Back to home page" button at the top of Search movie page.
+
+## 
