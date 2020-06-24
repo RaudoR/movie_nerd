@@ -7,3 +7,11 @@ http://www.movienerd.com.s3-website.us-east-2.amazonaws.com/
 If you want to run this app locally, you can follow these steps:
 - Clone the repo.
 - Initiate the "index.html" file to land on the home page.
+
+## Usage
+
+- If you want to go to the app directly, the "MoviNerd App >" button will take you there.
+- Once on the tool page (Search for a movie page) just type your movie in the search box and hit enter.
+- For more movie information click the "Movie Details" button.
+- Once in the movie details page, if you want to go back to the search page you can either click the "Go back to search" button at the bottom, or the "MovieNerd" button at he top.
+- To go back to the home page click the "Back to home page" button at the top of Search movie page.
