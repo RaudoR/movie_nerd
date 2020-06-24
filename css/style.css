@@ -1,7 +1,8 @@
+/*Set the poster width to 100 for uniformality*/ 
 #movies img, #movie img {
     width: 100%;
 }
-
+/*Make app adaptable to different dimensions*/
 @media(min-width:960px){
     #movies .col-md-3 .well {
         height: 390px;  
@@ -10,6 +11,7 @@
         height: 300px;
     }
 }
+/*Make the "MoviNerd App" button follow you while you scroll*/
 .btn {
     position: sticky;
     top: 0;
