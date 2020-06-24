@@ -1,3 +1,4 @@
+// Capture the input of the user and store it in the "searchText" variable
 $(document).ready(() => {
     $('#searchForm').on('submit', (e) => {
       let searchText = $('#searchText').val();
@@ -6,13 +7,15 @@ $(document).ready(() => {
     });
   });
   
+  // This function "getMovies" will go into the API and append the input of the user, and it returns the the results (movies) associated with the input.
   function getMovies(searchText){
-
+    // Use Axios to tap into the API
     axios.get('http://www.omdbapi.com/?apikey=2dfc5f7a&s='+searchText)
     .then((response) => {
       console.log(response);
       let movies = response.data.Search;
       let output = '';
+      //  Use JQUERY to output all elements
       $.each(movies, (index, movie) => {
         output += `
           <div class="col-md-3">
@@ -37,7 +40,7 @@ function movieSelected(id){
   window.location = 'movie.html';
   return false;
 }
-
+// This function will grab different data objects and output them as movie details
 function getMovie(){
   let movieId = sessionStorage.getItem('movieId');
 
@@ -45,7 +48,7 @@ function getMovie(){
     .then((response) => {
       console.log(response);
       let movie = response.data;
-
+      // Output is divided into columns and rows
       let output =`
         <div class="row">
           <div class="col-md-4">
