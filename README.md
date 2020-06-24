@@ -18,4 +18,8 @@ If you want to run this app locally, you can follow these steps:
 - Once in the movie details page, if you want to go back to the search page you can either click the "Go back to search" button at the bottom, or the "MovieNerd" button at he top.
 - To go back to the home page click the "Back to home page" button at the top of Search movie page.
 
-## 
+## Contributing
+
+## Related Projects
+
+## Licensing
