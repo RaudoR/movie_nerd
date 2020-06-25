@@ -20,6 +20,12 @@ If you want to run this app locally, you can follow these steps:
 
 ## Contributing
 
+Author/Developer: Raudo Rivas
+
 ## Related Projects
 
+A similar project is the Airbnb clone that i created as part of a team, repos can be found on my github profile.
+
 ## Licensing
+
+Find the "LICENSE" file in the repository
