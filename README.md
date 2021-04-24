@@ -25,6 +25,7 @@ If you want to run this app locally, you can follow these steps:
 ## Contributing
 
 Author/Developer: Raudo Rivas
+
 As the sole Developer of this Project i worked on the front-end aspect as well as backend. I specialize in front-end, i like the way that you can see progress of your work in real time and make adjusments accordingly. This project was built using JavaScript, HTML5, CSS, Bootstrap, and AWS for deployment. This was the project that helped me learn the most about APis given that i used OMDB a movie database, and with the API key i had access to 280,000 movies and numerous data sets for my application.  
 
 - Linkedin: https://www.linkedin.com/in/raudor/
