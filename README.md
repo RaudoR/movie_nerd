@@ -1,5 +1,5 @@
 # MovieNerd
-MovieNerd is a movie information site, where you can type in your favorite movies and using a third party API will out put the results. Check it out bellow. Simply put the user requests data this app will tap into the OMDB movie database, finds the movie the user wants information for and outputs the data to see.
+MovieNerd is a movie information site, where you can type in your favorite movies and using a third party API will out put the results. Check it out bellow. Simply put the user requests data this app will tap into the OMDB movie database, finds the movie the user wants information for and outputs the data to see. You can go to the site using the link bellow.
 
 http://www.movienerd.com.s3-website.us-east-2.amazonaws.com/
 
