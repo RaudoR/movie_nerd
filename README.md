@@ -3,6 +3,8 @@ MovieNerd is a movie information site, where you can type in your favorite movie
 
 http://www.movienerd.com.s3-website.us-east-2.amazonaws.com/
 
+![movienerd](https://user-images.githubusercontent.com/50188535/115968251-d273b400-a4eb-11eb-91d1-12c154fa3733.PNG)
+
 
 ## Installation
 If you want to run this app locally, you can follow these steps:
